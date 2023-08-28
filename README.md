@@ -1,4 +1,4 @@
-# auth_app_2
+# Chat App
 
 A simple Chat App made with Flutter and Firebase.
 
